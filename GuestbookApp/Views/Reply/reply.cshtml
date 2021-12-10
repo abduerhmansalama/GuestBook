@@ -1,0 +1,19 @@
+﻿@model replyVM
+
+<section class="row justify-content-between">
+    <div class="col-md-4">
+        <form method="POST" asp-action="postReply" asp-controller="Reply">
+            <input type="hidden" asp-for="@Model.commentId" />
+            
+            <div class="form-group">
+                <label class="text-muted" asp-for="@Model.reply.Content"></label>
+                <textarea class="form-control" asp-for="@Model.reply.Content" maxlength="2000" rows="4"></textarea>
+                <span asp-validation-for="@Model.reply.Content" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary mt-4">
+                submit
+            </button>
+        </form>
+    </div>
+</section>

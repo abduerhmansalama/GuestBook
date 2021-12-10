@@ -1,0 +1,12 @@
+C:\Users\AbduerhmanKamelSalama\source\repos\GuestbookApp\Guestbook.Core\bin\Debug\net5.0\Guestbook.Core.deps.json
+C:\Users\AbduerhmanKamelSalama\source\repos\GuestbookApp\Guestbook.Core\bin\Debug\net5.0\Guestbook.Core.dll
+C:\Users\AbduerhmanKamelSalama\source\repos\GuestbookApp\Guestbook.Core\bin\Debug\net5.0\ref\Guestbook.Core.dll
+C:\Users\AbduerhmanKamelSalama\source\repos\GuestbookApp\Guestbook.Core\bin\Debug\net5.0\Guestbook.Core.pdb
+C:\Users\AbduerhmanKamelSalama\source\repos\GuestbookApp\Guestbook.Core\obj\Debug\net5.0\Guestbook.Core.csproj.AssemblyReference.cache
+C:\Users\AbduerhmanKamelSalama\source\repos\GuestbookApp\Guestbook.Core\obj\Debug\net5.0\Guestbook.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbduerhmanKamelSalama\source\repos\GuestbookApp\Guestbook.Core\obj\Debug\net5.0\Guestbook.Core.AssemblyInfoInputs.cache
+C:\Users\AbduerhmanKamelSalama\source\repos\GuestbookApp\Guestbook.Core\obj\Debug\net5.0\Guestbook.Core.AssemblyInfo.cs
+C:\Users\AbduerhmanKamelSalama\source\repos\GuestbookApp\Guestbook.Core\obj\Debug\net5.0\Guestbook.Core.csproj.CoreCompileInputs.cache
+C:\Users\AbduerhmanKamelSalama\source\repos\GuestbookApp\Guestbook.Core\obj\Debug\net5.0\Guestbook.Core.dll
+C:\Users\AbduerhmanKamelSalama\source\repos\GuestbookApp\Guestbook.Core\obj\Debug\net5.0\ref\Guestbook.Core.dll
+C:\Users\AbduerhmanKamelSalama\source\repos\GuestbookApp\Guestbook.Core\obj\Debug\net5.0\Guestbook.Core.pdb

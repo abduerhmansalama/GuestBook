@@ -1,0 +1,29 @@
+﻿
+@model IEnumerable<Comment>
+
+<div class="row  no-gutters">
+    <div class="col-12">
+        @foreach (var item in Model)
+        {
+
+            <div class="card text-white bg-success mb-3" style="max-width: 90rem;">
+                <div class="card-header">@item.Title</div>
+                <div class="card-body">
+                    <p class="card-text">@item.Content</p>
+
+                </div>
+                <div class="card-footer" style="text-align:right">
+                    <a asp-action="Edit" asp-controller="Comment" asp-route-id="@item.Id" class="btn btn-primary">
+                        Edit
+                    </a>
+
+
+                </div>
+
+            </div>
+
+
+        }
+    </div>
+
+</div>
